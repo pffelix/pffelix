@@ -7,7 +7,7 @@
 <br />
 <br />
 
-I am a Computer Scientist and App Developer from Germany, passionate about Software Developing, Audio and Voice Technology and Machine Learning.
+I am a Computer Scientist and App Developer from Germany, passionate about Software Developing, Audio and Voice Technology, IoT and Machine Learning.
 Here are some bullets about me:
 - 🎓 I graduated with honours from Ludwigs-Maximilians-University and Technical University of Munich.
 - 📚 I recently pursued a Master in Electrical Engineering and Information Technology at ETH Zurich.
