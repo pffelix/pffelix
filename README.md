@@ -11,7 +11,7 @@ I am a Computer Scientist and Software Engineer from Germany, passionate about A
 Here are some bullets about me:
 - 🎓 I graduated with honours from Ludwigs-Maximilians-University and Technical University of Munich.
 - 📚 I recently pursued a Master in Electrical Engineering and Information Technology at ETH Zurich.
-- 🕺 In my free time, I love playing board games 🎲, going biking 🚴 and travelling ✈️.
+- 🕺 In my free time, I like listening to music 🎵, going biking 🚴 and travelling ✈️.
 
 <!-- #### GitHub Activity
 
