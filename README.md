@@ -7,7 +7,7 @@
 <br />
 <br />
 
-I am a Research Scientist and Software Engineer from Germany, passionate about Audio and Voice Technology, Machine Learning and IoT Applications.
+I am a Research Scientist and Software Engineer from Germany, passionate about Audio and Sensor Technology, Machine Learning and IoT Applications.
 Here are some bullets about me:
 - 🎓 I graduated with honors from Ludwigs-Maximilians-University and Technical University of Munich.
 - 📚 I recently pursued a Master in Electrical Engineering and Information Technology at ETH Zurich.
