@@ -10,7 +10,7 @@
 I am a Product Developer, Researcher and Software Engineer from Germany, passionate about Audio and Sensor Technology, Machine Learning and IoT Applications.
 Here are some bullets about me:
 - 🎓 I graduated with honors from Ludwigs-Maximilians-University and Technical University of Munich.
-- 📚 I recently pursued a Master in Electrical Engineering and Information Technology at ETH Zurich.
+- 📚 I pursued a Master in Electrical Engineering and Information Technology at ETH Zurich.
 - 🕺 In my free time, I like listening to music 🎵, going biking 🚴 and travelling ✈️.
 
 <!-- #### GitHub Activity
