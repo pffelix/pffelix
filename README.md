@@ -7,10 +7,10 @@
 <br />
 <br />
 
-Here are some bullets about me:
-- 🎓 I graduated with honors from Ludwigs-Maximilians-University and Technical University of Munich.
-- 📚 I pursued a Master in Electrical Engineering and Information Technology at ETH Zurich.
-- 🕺 In my free time, I like listening to music 🎵, going biking 🚴 and travelling ✈️.
+I am focused on creating products for emerging markets. My current professional focus is on AI and computer vision. Here are some bullets about me:
+- 🎓 I graduated with honors in my Bachelor studies at Ludwigs-Maximilians-University and Technical University of Munich.
+- 📚 I finished a Master in Electrical Engineering and Information Technology at ETH Zurich.
+- 🕺 In my free time, I like listening to music 🎵, going biking 🚴 and spotting emerging technologies 🚀
 
 <!-- #### GitHub Activity
 
