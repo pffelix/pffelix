@@ -7,7 +7,7 @@
 <br />
 <br />
 
-I am focused on creating products for emerging markets. My current professional focus is on AI and vision applications. Here are some bullets about me:
+I am focused on creating products for emerging markets. My current professional focus is on industrial AI and vision applications. Here are some bullets about me:
 - 🎓 I graduated with honors in my Bachelor studies at Ludwigs-Maximilians-University and Technical University of Munich.
 - 📚 I finished a Master in Electrical Engineering and Information Technology at ETH Zurich.
 - 🕺 In my free time, I like listening to music 🎵, going biking 🚴 and spotting emerging technologies 🚀
